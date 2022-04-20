@@ -9,7 +9,9 @@ If you haven’t written TypeScript before, don’t be afraid of it. This is alm
 When I started diving into TypeScript, I learned a lot about JavaScript itself.
 
 # Installation
-> npm setup
+```node.js
+npm setup
+```
   
 # Launch the bot
 ## Local development
