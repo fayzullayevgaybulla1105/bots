@@ -22,3 +22,12 @@ looks like this :` 123:abc`. Create a file `bot-token.txt` and paste it there.
 npm start
 
 ```
+
+# An example of the basic structure of a folder
+- `source` TypeScript contains your source files. The subfolders contain information about what you can do
+    - `bot` may contain appropriate files for the telegram bot
+        - `menu` bot information, including the menu shown in / start
+- `dist` contains transplanted JavaScript files.
+
+# Improvement
+Do you think something is missing? Feel free to add. Then everyone can learn it easier than before :)
