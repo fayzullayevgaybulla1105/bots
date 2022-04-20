@@ -1,6 +1,5 @@
-# About
+# About: Telegram bot
 
-Telegram bot
 - Node.js
 - Typescript
 - MongoDB
