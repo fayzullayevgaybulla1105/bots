@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot.",
+  "version": "1.0.0",
+  "description": "- Typescript - MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fayzullayevgaybulla1105/bots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fayzullayevgaybulla1105/bots/issues"
+  },
+  "homepage": "https://github.com/fayzullayevgaybulla1105/bots#readme",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
