@@ -10,3 +10,7 @@ When I started diving into TypeScript, I learned a lot about JavaScript itself.
 
 # Installation
 -  npm setup
+
+# Launch the bot
+## Local development
+Write to @BotFather on Telegram and create your bot. You will receive a token that looks like this : 123:abc. Create a file bot-token.txtand paste it there.
