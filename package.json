@@ -4,23 +4,24 @@
   "description": "- Typescript - MongoDB",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node_modules/typescript/bin/tsc"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fayzullayevgaybulla1105/bots.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fayzullayevgaybulla1105/bots/issues"
   },
   "homepage": "https://github.com/fayzullayevgaybulla1105/bots#readme",
-  "dependencies": {
-    "typescript": "^4.6.3"
-  },
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "typescript": "^4.6.3"
   }
 }
